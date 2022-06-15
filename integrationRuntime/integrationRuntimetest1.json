@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimetest1",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
